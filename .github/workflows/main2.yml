@@ -6,7 +6,7 @@ jobs:
     runs-on: ubuntu-latest
     steps: 
       - name: "自己紹介"
-        run: |
+        run: 
           echo "Nice to meet you!!"
           echo "My Name is Taro!!"
           echo "I love programming!!"
