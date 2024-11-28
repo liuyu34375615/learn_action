@@ -1,0 +1,7 @@
+jobs:
+  echo_hello:
+    runs-on: ubuntu-latest
+    steps: 
+      - run: echo "Nice to meet you!!"
+      - run: echo "My Name is Taro!!"
+      - run: echo "I love programming!!"
